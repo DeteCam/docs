@@ -2,7 +2,7 @@
 
 - [x] 주제와 범위 정하기 (대상 카메라, 범위 밖)
 - [x] 저장소 나누기 (receiver · app · ai · docs), 스펙 틀
-- [x] 교실 전파 시뮬레이션으로 재는 방법 고르기 → 판을 돌리는 수신기에서 안테나 패널로 (receiver 006)
+- [x] 교실 전파 시뮬레이션으로 재는 방법 고르기 → 판을 돌리는 수신기에서 안테나 패널로 (receiver 006. 돌판 때의 것은 [receiver-legacy](https://github.com/DeteCam/receiver-legacy))
 - [x] 부품을 사기 전의 검증: 공개된 시험 보고, 가진 기록의 분석, 흔들림을 넣은 계산 → receiver 사전 검증
 - [x] 숙소 방에서 숨긴 카메라 찾기 계산 → receiver 숙소 방 계산
 - [x] 설계도, 데모 환경 → receiver docs

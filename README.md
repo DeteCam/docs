@@ -44,6 +44,6 @@ verification/          검증 요약 (계산, 실험). 자세한 것은 receiver
 | 저장소 | 스펙 |
 |---|---|
 | docs | [000 시스템](specs/000-system/spec.md) |
-| receiver | [006 패널 수신기](https://github.com/DeteCam/receiver/tree/main/specs/006-panel-receiver) (지금 구조) · [004 탐지](https://github.com/DeteCam/receiver/tree/main/specs/004-detection) · [005 혼자 동작](https://github.com/DeteCam/receiver/tree/main/specs/005-standalone-control) · 001~003 은 돌판 수신기 때의 것 (태그 `plate-v2`) |
+| receiver | [006 패널 수신기](https://github.com/DeteCam/receiver/tree/main/specs/006-panel-receiver) (지금 구조, 혼자 동작 포함) · [004 탐지](https://github.com/DeteCam/receiver/tree/main/specs/004-detection) · 001·002·003·005 는 돌판 수신기 때의 것이라 [receiver-legacy](https://github.com/DeteCam/receiver-legacy) 로 옮겼다 |
 | app | [001 수신기 조종](https://github.com/DeteCam/app/tree/main/specs/001-receiver-control) · [002 AR 표시](https://github.com/DeteCam/app/tree/main/specs/002-ar-zone-display) |
 | ai | [001 의심 점수](https://github.com/DeteCam/ai/tree/main/specs/001-suspicion-score) · [002 자리 모델](https://github.com/DeteCam/ai/tree/main/specs/002-position-model) |
