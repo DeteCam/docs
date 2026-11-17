@@ -23,6 +23,7 @@
 | 6 | [숙소 방 계산](verification/숙소%20방%20계산.md) | 숙소 방에 숨긴 카메라의 자리를 찾을 수 있는가 |
 | 7 | [유용성 근거](research/유용성%20근거.md) | 왜 필요한가: 통계, 사건, 기존 탐지기의 한계 |
 | 8 | [비콘 검토](research/비콘%20검토.md) | 아무도 보고 있지 않은 핫스팟 카메라를 찾을 수 있나 |
+| 9 | [전파 넓히기 검토](research/전파%20넓히기%20검토.md) | 카메라 → 폰 → AI → 이어폰의 사슬, LTE·5G·블루투스를 어디까지 잡을 수 있나 |
 
 수신기의 그림과 자세한 숫자: [설계도](https://github.com/DeteCam/receiver/blob/main/docs/%EC%84%A4%EA%B3%84%EB%8F%84.md) · [데모 환경](https://github.com/DeteCam/receiver/blob/main/docs/%EB%8D%B0%EB%AA%A8%20%ED%99%98%EA%B2%BD.md) · [설계 검토](https://github.com/DeteCam/receiver/blob/main/docs/%EC%84%A4%EA%B3%84%20%EA%B2%80%ED%86%A0.md)
 
@@ -32,7 +33,7 @@
 constitution.md        프로젝트 원칙
 specs/000-system/      시스템 전체 스펙 (spec → plan → tasks)
 design/                시스템 설계서
-research/              조사 노트 (필요성, 대상 카메라)
+research/              조사 노트 (필요성, 대상 카메라, 전파 넓히기)
 verification/          검증 요약 (계산, 실험). 자세한 것은 receiver 저장소
 ```
 
