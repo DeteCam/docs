@@ -18,7 +18,7 @@
 ## 저장소
 | 저장소 | 내용 |
 |---|---|
-| [receiver](https://github.com/DeteCam/receiver) | 수신기 스펙, 시뮬레이션 코드 (v6 설계는 태그 `v6-nano2`) |
+| [receiver](https://github.com/DeteCam/receiver) | 수신기 스펙, 시뮬레이션 코드 (v6 설계는 브랜치 `archive/v6-nano2`) |
 | [ai](https://github.com/DeteCam/ai) | 카메라 판별, 방향 · 위치 추정 |
 | [app](https://github.com/DeteCam/app) | 스마트폰 앱, AR 표시 |
 
